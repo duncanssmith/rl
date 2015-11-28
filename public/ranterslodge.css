@@ -1,0 +1,76 @@
+<style>
+<!--
+h1,h2,h3,h4,h5,h6
+{
+	font-family:Verdana,Tahoma,sans-serif; 
+	color: #5f7001;
+	margin-left:5px; 
+}
+.html{
+	font-family:verdana;
+	color: #660;
+}
+
+a		{text-decoration:none;}
+a:link		{color: #39a;}
+a:hover		{color: #aaf;}
+a:visited	{color: #3cc;}
+a:active	{color: #dd3;}
+
+span
+{
+	font-family:Verdana,Tahoma,sans-serif; 
+
+}
+
+p, td
+{
+	font-size:10pt;
+	font-family:Verdana,Tahoma,sans-serif; 
+	color: #406003;
+	margin-left:6px; 
+	margin-top:2px; 
+} 
+
+.title
+{
+	font-size:18pt;
+	font-weight: bold;
+	font-family:Verdana,Tahoma,sans-serif; 
+	color: #5f7001;
+}
+
+.subtitle
+{
+	font-size:14pt;
+	font-weight: normal;
+	font-family:Verdana,Tahoma,sans-serif; 
+	color: #5f7001;
+}
+
+.capt
+{
+	font-size:7pt;
+	font-family:Verdana,Tahoma,sans-serif; 
+	color: #406003;
+	margin-left:6px; 
+	margin-top:2px; 
+}
+.captLight
+{
+	font-size:7pt;
+	font-family:Verdana,Tahoma,sans-serif; 
+	color: #609023;
+	margin-left:6px; 
+	margin-top:2px; 
+}
+.light
+{
+	color="#ffffff";
+}
+.dark
+{
+	color="#5f7001";
+}
+-->
+</style>
