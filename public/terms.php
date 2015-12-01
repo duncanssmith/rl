@@ -176,10 +176,10 @@ c) For any loss damage or inconvenience to the Client caused to or suffered by t
 </li>
 
 <li>
-Under no circumstances shall the Owner’s liability to the Client exceed the amount paid to the Owner for the rental period
+Under no circumstances shall the Owner's liability to the Client exceed the amount paid to the Owner for the rental period
 </li>
 <li>
-In the exceptional event of the property being on “flood warning” and “severe flood warning” (as described and implemented by the Environment Agency) the Client will have the right to have their monies returned if they decide to leave. 
+In the exceptional event of the property being on "flood warning" and "severe flood warning" (as described and implemented by the Environment Agency) the Client will have the right to have their monies returned if they decide to leave. 
 </li>
 </ol>
 </td>
