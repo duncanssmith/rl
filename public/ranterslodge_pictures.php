@@ -85,6 +85,7 @@ function showTime()
 <a href="index.php#access">Access</a><br>
 <a href="index.php#location">Location</a><br>
 <a href="ranterslodge_pictures.php">Pictures</a><br>
+<a href="terms.php">Terms & Conditions</a><br>
 </h5>
 <!-- ***** LEFT-HAND NAV BAR  END ***** --> 
 

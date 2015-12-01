@@ -74,6 +74,7 @@ function showTime()
 <a href="#access">Access</a><br>
 <a href="#location">Location</a><br>
 <a href="ranterslodge_pictures.php">Pictures</a><br>
+<a href="terms.php">Terms & Conditions</a><br>
 
 </h5>
 </td>
