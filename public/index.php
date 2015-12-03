@@ -35,6 +35,7 @@ function showTime()
 
 <body bgcolor="#ffffff">
 
+
 <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tr>
 		<td><a name="topo"><img src="images/spacer.gif" height="0"></a></td>
@@ -75,6 +76,7 @@ function showTime()
 <a href="#location">Location</a><br>
 <a href="ranterslodge_pictures.php">Pictures</a><br>
 <a href="terms.php">Terms & Conditions</a><br>
+<a href="calendar.php">Availability</a><br>
 
 </h5>
 </td>
