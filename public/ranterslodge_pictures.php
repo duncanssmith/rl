@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<?php 
+<?php
 	include 'data.php';
 	include 'functions.php';
 	$path="images/20080508/";
@@ -57,12 +57,12 @@ function showTime()
 
 <!-- ***** END PAGE BANNER/FLY HEADER **************************************************-->
 
- 
+
 <tr>
 <td colspan="2">
 
 <!-- ***** START INNER TABLE 0.2 **************************************************-->
-<!-- ***** LEFT-HAND NAV BAR AND MAIN CONTENT PAGE ***** --> 
+<!-- ***** LEFT-HAND NAV BAR AND MAIN CONTENT PAGE ***** -->
 <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
 
 	<tr>
@@ -79,15 +79,16 @@ function showTime()
 
 <td width="180" bgcolor="#ffffff" valign="top" align="left">
 <h5>
-<a href="index.php#ranterslodge">Ranters Lodge</a><br>
-<a href="index.php#studio">Artist's Studio</a><br>
-<a href="index.php#guests">Rental</a><br>
-<a href="index.php#access">Access</a><br>
-<a href="index.php#location">Location</a><br>
-<a href="ranterslodge_pictures.php">Pictures</a><br>
-<a href="terms.php">Terms & Conditions</a><br>
+	<a href="index.php#ranterslodge">Ranters Lodge</a><br>
+  <a href="index.php#studio">Artist's Studio</a><br>
+  <a href="index.php#guests">Rental</a><br>
+  <a href="index.php#access">Access</a><br>
+  <a href="index.php#location">Location</a><br>
+  <a href="ranterslodge_pictures.php">Pictures</a><br>
+  <a href="terms.php">Terms &amp; Conditions</a><br>
+  <a href="calendar.php">Availability</a><br>
 </h5>
-<!-- ***** LEFT-HAND NAV BAR  END ***** --> 
+<!-- ***** LEFT-HAND NAV BAR  END ***** -->
 
 </td>
 
@@ -149,8 +150,8 @@ function showTime()
 
 </table>
 
-<?php 
-	#show_images("images/20080508", $images); 
+<?php
+	#show_images("images/20080508", $images);
 ?>
 
 <!-- IMAGES -->
@@ -206,7 +207,7 @@ function showTime()
 <!-- ***** END PAGE CONTENT ***** -->
 <!-- ***** END INNER TABLE 0.2 **************************************************-->
 </td>
-</tr>  
+</tr>
 <tr>
 <td align="center" colspan="2"><span class="capt"><a href="http://www.ranterslodge.co.uk/">
 &copy; ranterslodge.co.uk</a></span><br>

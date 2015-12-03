@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<?php 
+<?php
 	include 'data.php';
 	include 'functions.php';
 	$path="images/20080508/";
@@ -56,12 +56,12 @@ function showTime()
 	</tr>
 
 <!-- ***** END PAGE BANNER/FLY HEADER **************************************************-->
- 
+
 <tr>
 <td colspan="2">
 
 <!-- ***** START INNER TABLE 0.2 **************************************************-->
-<!-- ***** LEFT-HAND NAV BAR AND MAIN CONTENT PAGE ***** --> 
+<!-- ***** LEFT-HAND NAV BAR AND MAIN CONTENT PAGE ***** -->
 <table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
 
 	<tr>
@@ -84,9 +84,10 @@ function showTime()
 <a href="index.php#access">Access</a><br>
 <a href="index.php#location">Location</a><br>
 <a href="ranterslodge_pictures.php">Pictures</a><br>
-<a href="terms.php">Terms & Conditions</a><br>
+<a href="terms.php">Terms &amp; Conditions</a><br>
+<a href="calendar.php">Availability</a><br>
 </h5>
-<!-- ***** LEFT-HAND NAV BAR  END ***** --> 
+<!-- ***** LEFT-HAND NAV BAR  END ***** -->
 
 </td>
 
@@ -147,7 +148,7 @@ The property is a No Smoking Property. The Client agrees that no one in his or h
 The Owner will accept one well-behaved dog as long as the Owner is advised in advance. Extra care must be taken to clean when leaving the property, The dog must be kept off the beds and the soft furnishings and any dog mess removed immediately from the shared yard. The dog must not be left alone in the property if likely to be stressed.
 </li>
 <li>
-The Client agrees to take good care of the property and to leave the property in a clean and tidy condition at the end of the rental period. There may not be a cleaner between every rental (This is reflected in the price charged) so it is important that the property is left as the Client would expect to find it. 
+The Client agrees to take good care of the property and to leave the property in a clean and tidy condition at the end of the rental period. There may not be a cleaner between every rental (This is reflected in the price charged) so it is important that the property is left as the Client would expect to find it.
 </li>
 <li>
 The Client agrees to notify the owner of any defects in the property and the Owner will make every effort to rectify the situation as soon as possible by either repair or replacement which ever is reasonably possible.
@@ -179,7 +180,7 @@ c) For any loss damage or inconvenience to the Client caused to or suffered by t
 Under no circumstances shall the Owner's liability to the Client exceed the amount paid to the Owner for the rental period
 </li>
 <li>
-In the exceptional event of the property being on "flood warning" and "severe flood warning" (as described and implemented by the Environment Agency) the Client will have the right to have their monies returned if they decide to leave. 
+In the exceptional event of the property being on "flood warning" and "severe flood warning" (as described and implemented by the Environment Agency) the Client will have the right to have their monies returned if they decide to leave.
 </li>
 </ol>
 </td>
@@ -212,7 +213,7 @@ In the exceptional event of the property being on "flood warning" and "severe fl
 <!-- ***** END PAGE CONTENT ***** -->
 <!-- ***** END INNER TABLE 0.2 **************************************************-->
 </td>
-</tr>  
+</tr>
 <tr>
 <td align="center" colspan="2"><span class="capt"><a href="http://www.ranterslodge.co.uk/">
 &copy; ranterslodge.co.uk</a></span><br>

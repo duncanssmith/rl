@@ -3,7 +3,7 @@
 <head>
 <title>ranterslodge.co.uk</title>
 
-<?php 
+<?php
 	include 'data.php';
 	include 'functions.php';
 	$path="images/20080508/";
@@ -25,11 +25,10 @@ function showTime()
 //-->
 </script>
 
-<link rel="stylesheet" href="public/ranterslodge.css" type="text/css">
+<link rel="stylesheet" href="ranterslodge.css" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Ranters Lodge Artist's Studio-Cottage, Chesil Beach, Chiswell, Portland, England">
-<meta name="keywords" content="Ranters Lodge, Cottage, Rental, Holiday rental, Holiday cottage, Portland, Judith Frost, Dorset Art, Art, Artist's Studio, Artists Studio, artist studio, Dorset Studios, Dorset, Chiswell, Chesil, Chesil Bank, Chesil Beach, World Heritage Site, Jurassic, Jurassic Coast, Fortuneswell, Weares, West Weares">
-<meta name="content" content="Ranters Lodge, Rental, Holiday rental, Holiday cottage, Portland, Judith Frost, Artists Studio Cottage, artist studio, Dorset Studios, Dorset, Chiswell, Chesil Beach, World Heritage Site, Jurassic Coast, Fortuneswell">
+<meta name="description" content="Ranters Lodge Artist's Studio, Portland, England">
+<meta name="keywords" content="Ranters Lodge, Portland, Judith Frost, Artist's Studios, Dorset Studios">
 <meta name="search" content="yes">
 </head>
 
@@ -69,12 +68,12 @@ function showTime()
 
 <td width="180" bgcolor="#ffffff" valign="top" align="left">
 <h5>
-<a href="#ranterslodge">Ranters Lodge</a><br>
-<a href="#guests">Rental</a><br>
-<a href="#access">Access</a><br>
-<a href="#location">Location</a><br>
+<a href="index.php">Ranters Lodge</a><br>
+<a href="index.php#guests">Rental</a><br>
+<a href="index.php#access">Access</a><br>
+<a href="index.php#location">Location</a><br>
 <a href="ranterslodge_pictures.php">Pictures</a><br>
-<a href="terms.php">Terms & Conditions</a><br>
+<a href="terms.php">Terms &amp; Conditions</a><br>
 <a href="calendar.php">Availability</a><br>
 
 </h5>
@@ -93,5 +92,26 @@ function showTime()
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c014m4tbhkeracudugjfu4ning%40group.calendar.google.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
+<!-- ************************0000000000000000**************************** -->
+<!-- ***** END PAGE CONTENT ***** -->
+<!-- ***** END INNER TABLE 0.2 **************************************************-->
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2"><span class="capt"><a href="http://www.ranterslodge.co.uk/">
+&copy; ranterslodge.co.uk</a></span><br>
+<span class="capt"><a href="mailto:itingdesign@googlemail.com">design iting</a></span>
+</td></tr>
+</table>
+
+<!-- ***** END INNER TABLE 0.1 **************************************************-->
+</table>
+</td></tr>
+
+<!--   *************************************** -->
+</td>
+</tr>
+</table>
 </body>
 </html>
