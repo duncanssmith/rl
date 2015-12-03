@@ -141,15 +141,15 @@ Ranters Lodge consists of 2 floors approximately 6 x 7.5 metres. The upper floor
 <p class="capt">Gallery Bedroom</p>
 
 <p>
-Ranters Lodge is available to rent inclusive of heating at �290 per week, or �44 per night, (minimum three nights), except from July until middle of September, at Christmas and at Easter when rent is �475 per week or �70 per night (minimum of three nights.) Longer lets are available. Please phone to discuss a price.
+Ranters Lodge is available to rent inclusive of heating at &pound;290 per week, or &pound;44 per night, (minimum three nights), except from July until middle of September, at Christmas and at Easter when rent is &pound;475 per week or &pound;70 per night (minimum of three nights). Longer lets are available. Please phone to discuss a price.
 </p>
 
 <p>
-Linen and towels are available for an extra �12 per person. There is an extra charge if constant heat is required.
+Linen and towels are available for an extra &pound;12 per person. There is an extra charge if constant heat is required.
 </p>
 
 <p>
-Please telephone Judith Frost on +44 (0) 1305 822 096 (telephone) or +44 (0) 7887 945 034 (mobile) or <a href="mailto:jcfrost@dialstart.net">email jcfrost@dialstart.net </a>for further information and availability. A non-returnable 20% deposit is required to secure booking.
+Please telephone Judith Frost on +44 (0) 1305 822 096 (land-line) or +44 (0) 7887 945 034 (mobile) or <a href="mailto:jcfrost@dialstart.net">email jcfrost@dialstart.net </a>for further information and availability. A non-returnable 20% deposit is required to secure booking.
 </p>
 
 <p><a href="#top"><img src="images/rantup.gif" border="0"></a>
@@ -186,7 +186,7 @@ Ranters Lodge is 140 miles (224km) from London and approximately 200 miles (320k
 </td></tr></table>
 </p>
 <p align="left">
-Chiswell, part of the Jurassic Coast, a World Heritage Site, is at the eastern end of Chesil beach, an 18 mile bank of stones connecting Portland to the mainland. Portland is well known mainly for its stone, used to rebuild London after the great fire in the 17th Century. It is also the "Isle of Slingers" in Thomas Hardy's novel <u>The Well Beloved</u>. It has many places that have an extraordinary charm and unusual beauty. West Weares, a spectacular walk where quarried stone tumbles into the sea, is a two minute walk from the studio, and Tout Quarry, a site of scientific Interest are just two examples. You can swim on calm days in the corner of Chesil Bay. There is also diving off Chesil Beach and in Portland Harbour, windsurfing and sailing. A yacht club opened in 2004, home of the 2012 Olympics. Close to the studios are the following: a caf�, an award-winning restaurant, and the Cove House Inn. It is a five minute walk to Fortuneswell where there is a chemist, a Post Office, a supermarket, a caf�, a fish and chip shop, and an Indian and a Chinese &quot;take-away&quot; restaurant.
+Chiswell, part of the Jurassic Coast, a World Heritage Site, is at the eastern end of Chesil beach, an 18 mile bank of stones connecting Portland to the mainland. Portland is well known mainly for its stone, used to rebuild London after the great fire in the 17th Century. It is also the "Isle of Slingers" in Thomas Hardy's novel <u>The Well Beloved</u>. It has many places that have an extraordinary charm and unusual beauty. West Weares, a spectacular walk where quarried stone tumbles into the sea, is a two minute walk from the studio, and Tout Quarry, a site of scientific Interest are just two examples. You can swim on calm days in the corner of Chesil Bay. There is also diving off Chesil Beach and in Portland Harbour, windsurfing and sailing. A yacht club opened in 2004, home of the 2012 Olympics. Close to the studios are the following: a caf&eacute;, an award-winning restaurant, and the Cove House Inn. It is a five minute walk to Fortuneswell where there is a chemist, a Post Office, a supermarket, a caf&eacute;, a fish and chip shop, and an Indian and a Chinese &quot;take-away&quot; restaurant.
 </p>
 <p>
 Portland is situated in the centre of the Dorset coastline, 4 miles from Weymouth, a traditional English seaside resort, with a sandy beach. It is within easy reach of the East Dorset Coast, including the Isle of Purbeck, which has a wild, rocky and diverse coastline, and West Dorset which has Chesil Beach, followed by fossil rich cliffs and a spectacular landscape dotted with ancient monuments.

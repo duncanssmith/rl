@@ -107,7 +107,7 @@ function showTime()
 <td align="left" valign="center"><p><img src="<?php echo $path.$images[7];?>"></p>
 <p class="capt">Upper studio, Ranters Lodge</p></td>
 <td align="left" valign="top"><p><img src="images/rl2005_002.jpg"></p>
-<!--<td align="left" valign="top"><p><img src="<?php echo $path.$images[7];?>"></p>-->
+<!--<td align="left" valign="top"><p><img src="<?php //echo $path.$images[7];?>"></p>-->
 <p class="capt">Stairs to sleeping platform</p></td>
 
 <td>&nbsp;</td>
@@ -118,16 +118,11 @@ function showTime()
 </tr>
 
 <tr>
-<!--<td align="left" valign="top"><p><br><img src="images/down_2.jpg"></p>-->
-<!--<td align="left" valign="top"><p><br><img src="images/lower_studio_1_may_2002.jpg"></p>-->
 <td align="left" valign="center"><p><img src="<?php echo $path.$images[9];?>"></p>
 
 <p class="capt">Kitchen and lower studio</p></td>
-<!--<td align="left" valign="center"><p><br><img src="images/beach_280_1.jpg"></p>-->
 <td align="left" valign="center"><p><img src="<?php echo $path.$images[8];?>"></p>
 
-<!--<td align="left" valign="center"><p><br><img src="images/chesil_beach_2005.jpg"></p>-->
-
 <p class="capt">Chesil beach</p></td>
 
 
@@ -142,7 +137,6 @@ function showTime()
 <td colspan="3"><img src="images/spacer.gif" width="1" height="3"></td>
 </tr>
 
-<!--   *************************************** -->
 </td>
 
 <td>&nbsp;</td>
@@ -150,59 +144,6 @@ function showTime()
 
 </table>
 
-<?php
-	#show_images("images/20080508", $images);
-?>
-
-<!-- IMAGES -->
-
-<!--
-<table border="0" width="100%" bgcolor="#ffffff"  cellspacing="0" cellpadding="0">
-<tr>
-<td colspan="3"><img src="images/spacer.gif width="1" height="3"></td>
-</tr>
-
-<tr>
-<td align="left" valign="center"><p><img src="images/upper_studio_may_2002.jpg"></p>
-<p class="capt">Upper studio, Ranters Lodge</p></td>
-<td align="left" valign="top"><p><img src="images/ladder_1.jpg"></p>
-<p class="capt">Ladder to sleeping platform</p></td>
-
-<td>&nbsp;</td>
-</tr>
-
-<tr>
-<td colspan="3"><img src="images/spacer.gif" width="100%" height="0"></td>
-</tr>
-
-<tr>
--->
-<!--<td align="left" valign="top"><p><br><img src="images/down_2.jpg"></p>-->
-<!--<td align="left" valign="top"><p><br><img src="images/lower_studio_1_may_2002.jpg"></p>
-
-<p class="capt">Kitchen and lower studio</p></td>
-<td align="left" valign="center"><p><br><img src="images/beach_280_1.jpg"></p>
-<p class="capt">Chesil beach</p></td>
-
-<td>&nbsp;</td>
-</tr>
-
-<tr>
-<td colspan="3"><img src="images/spacer.gif width="1" height="3"></td>
-</tr>
-
-<tr>
-<td colspan="3"><img src="images/spacer.gif" width="1" height="3"></td>
-</tr>
-
-
-</td>
-
-<td>&nbsp;</td>
-</tr>
-
-</table>
--->
 <!-- ************************0000000000000000**************************** -->
 <!-- ***** END PAGE CONTENT ***** -->
 <!-- ***** END INNER TABLE 0.2 **************************************************-->
