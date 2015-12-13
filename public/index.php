@@ -13,13 +13,13 @@
 
 <div id="content">
     <section id="section-main" class="section photo">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <h1 class="title pull-left">Ranter's Lodge on Chesil Beach</h1>
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <h5>Ranters Lodge Artist's Studio/Cottage on Chesil Beach</h5>
+                    <h2>Ranter's Lodge Artist's Studio/Cottage on Chesil Beach</h2>
                     <p> Chiswell, Portland, Dorset DT5 1AW<br/>tel +44(0)1305 822 096<br/>mobile +44(0)7887 945 034 </p>
                 </div>
                 <div class="col-md-6">

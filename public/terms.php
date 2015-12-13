@@ -8,7 +8,7 @@
 
 
 <div id="content">
-    <section id="section-main" class="section photo">
+    <section id="section-terms" class="section photo">
         <div class="container">
             <div class="row">
                 <div class="col-md-2"></div>

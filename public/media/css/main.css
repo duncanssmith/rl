@@ -1,32 +1,25 @@
 @import url(//fonts.googleapis.com/css?family=Open%20Sans:600);
 
 html, body {
-    background-color: rgba(100,100,100,0.9);
+    background-color: rgba(255,255,255,1);
     height: 100%;
     width: 100%;
     padding: 0;
     padding-top: 40px;
     margin:0;
+    font-family:'Helvetica', sans-serif;
     font-family:'Open Sans', sans-serif;
-    /*font-family:'Helvetica', sans-serif;*/
     font-weight:100;
     text-align:left;
     color: #444;
     display: table;
 }
 
-/*.top-photo {*/
-    /*background: #fefefe no-repeat top center;*/
-    /*min-height: 285px;*/
-    /*background-size: cover;*/
-    /*color: rgba(100,100,100,.9);*/
-/*}*/
-
 .container-fluid {
     text-align: center;
     display: table-cell;
     vertical-align: middle;
-    color: rgba(100,100,100,.9);
+    color: rgba(255,255,255,1);
 }
 
 .content {
@@ -39,54 +32,65 @@ html, body {
     color: rgba(255,255,255,1);
     font-weight: 100;
 }
-
 .title-sub {
     font-size: 38px;
     color: rgba(255,255,255,1);
     font-weight: 100;
 }
-
-.address {
-    background-color: rgba(255, 255, 255, .35);
-    font-family: Open Sans;
-    font-size: 24px;
-    line-height: 170%;
-    font-weight: 200;
-}
-.opening-times {
-    font-family: Open Sans;
-    font-size: 24px;
-    line-height: 170%;
-    font-weight: 200;
-}
-.banner, a {
-    background-color: rgba(255,255,255,0.1);
-}
 .section {
     position: relative;
-    min-height: 900px;
+    min-height: 800px;
 }
-#welcome-logo {
+#logo {
     margin-top: 20px;
 }
-#section-welcome {
+#section-main {
     padding-top: 40px;
-    background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
+    background: #282828 url('../images/rl2005_001.jpg') no-repeat center center;
     background-size: cover;
-    color: #fff;
-}
-#section-about {
-    padding-top: 40px;
     background-color: rgba(255,255,255,0.1);
     text-align: left;
-    color: rgba(255,255,255,1);
+    color: #999;
 }
-#section-menu {
+#section-main h1, h2, p {
+    padding: 20px,20px,20px,20px
+    background-color: rgba(255, 255, 255, .4);
+    color: #799;
+}
+#section-studio {
+    padding-top: 40px;
+    background: #282828 url('../images/rl2005_002.jpg') no-repeat center center;
+    background-size: cover;
+    background-color: rgba(255,255,255,0.1);
+    text-align: left;
+    color: #999;
+}
+#section-studio h1, p {
+    color: #778;
+}
+#section-rental {
     padding-top: 40px;
     background-color: rgba(122, 133, 59, .4);
     background-color: rgba(180, 160, 20, .4);
 }
-#section-christmas {
+#section-access {
+    padding-top: 40px;
+    background-color: rgba(180, 160, 20, .4);
+    background-color: rgba(255,255,255,0.1);
+    background: #282828 url('../images/DSC90003.jpg') no-repeat center center;
+    background-size: cover;
+}
+#section-terms {
+    padding-top: 40px;
+    background-color: rgba(255,255,255,.9);
+    background: #282828 url('../images/DSC90003.jpg') no-repeat center center;
+    background-size: cover;
+}
+#section-terms, li {
+    font-size: 12pt;
+    line-height: 1.5em;
+}
+#section-location {
     padding-top: 40px;
     background-color: rgba(180, 160, 20, .4);
 }
@@ -95,12 +99,6 @@ html, body {
 }
 .menu-page-2 {
   margin: 0 0 0 80px;
-}
-.top-photo {
-  background: #282828 url('../images/Home/gOffer1.jpg') no-repeat center center;
-  min-height: 285px;
-  background-size: cover;
-  color: #fff;
 }
 
 section.flat {
@@ -116,17 +114,6 @@ section.flat > .container > .photo-float {
     /*padding: 40px 20px 20px 20px;*/
     padding: 30px 0px 30px 0px;
     min-height: 285px;
-    background: #282828 url('../images/Home/gOffer2.jpg') no-repeat center center;
-}
-
-.photo-float {
-  background: #282828 url('../images/Home/gOffer2.jpg') no-repeat center center;
-}
-p.float-text {
-    margin: 10px,10px,10px,10px;
-    padding: 20px,20px,20px,20px;
-    color: rgba(50,55,55,.999);
-    background: rgba(255, 255, 255, 0.65);
 }
 
 section.photo {
@@ -143,7 +130,7 @@ section.photo > .container > .row {
     background: rgba(200, 200, 200, .0);
 }
 
-.welcome {
+.main {
     text-align;left;
     width: 300px;
     height: 200px;
@@ -181,35 +168,10 @@ h1 {
 .container {
     background: rgba(255, 255, 255, .999);
 }
-.work-container {
-    border: 0px solid #00f;
-    width: 200px;
-    padding: 10px 40px ;
-    font-size: 0.8em;
-    color: #444;
-}
-
-.text-left {
-    padding-bottom: 20px;
-}
-.text-container {
-    margin: 80px 0 0 0;
-    border: 0px solid #f00;
-    padding: 10px 40px ;
-    font-size: 0.9em;
-    color: #444;
-}
-
 .icon-white {
     color: #fff;
 }
 
-.top-photo {
-    background: #282828 url('') no-repeat top center;
-    min-height: 285px;
-    background-size: cover;
-    color: rgba(100,100,100,.9);
-}
 .white-bg {
     background: rgba(255,255,255,.9);
 }

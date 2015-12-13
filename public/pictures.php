@@ -22,7 +22,7 @@
                     <img src="<?php echo $path.$images[8];?>">
                     <p class="capt">Chesil beach</p></td>
                     <img src="<?php echo $path.$images[7];?>">
-                    <p class="capt">Upper studio, Ranters Lodge</p></td>
+                    <p class="capt">Upper studio</p></td>
                 </div>
             </div>
         </div>
