@@ -1,6 +1,6 @@
 <?php
 
-$images=Array(
+$images = Array(
 	'DSC01843.jpg',
 	'DSC01969.jpg',
 	'DSC01971.jpg',
