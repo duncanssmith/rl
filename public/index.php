@@ -40,7 +40,7 @@
     <section id="section-studio" class="section photo">
         <div class="container">
             <div class="row">
-                <h1 class="title pull-left">Artist's studio</h1>
+                <h1 class="title pull-left">Artists' studio</h1>
             </div>
             <div class="row">
                 <div class="col-md-6">
