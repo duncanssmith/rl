@@ -32,7 +32,7 @@
                     <a href="pictures.php"><img src="media/images/<?php echo $images[2]?>" border="0"></a></p>
                 </div>
                 <div class="col-md-6">
-                    <p> Ranters Lodge and the Dead House lie 30 metres from the sea. Formerly a fishing store and a boat house, they have been converted into two self-contained artist's studios with accommodation for 2/3 people each. Normally only Ranters Lodge is rented. </p>
+                    <p> Ranters Lodge and the Dead House lie 30 metres from the sea. Formerly a fishing store and a boat house, they have been converted into two self-contained artists' studios with accommodation for 2/3 people each. Normally only Ranters Lodge is rented. </p>
                 </div>
             </div>
         </div>
