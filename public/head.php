@@ -38,12 +38,12 @@
 <?php
 	include 'data.php';
 	include 'functions.php';
-	$path="media/images/20080508/";
+	$path="media/images/";
 ?>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Ranters Lodge Artist's Studio-Cottage, Chesil Beach, Chiswell, Portland, England">
-<meta name="keywords" content="Ranters Lodge, Cottage, Rental, Holiday rental, Holiday cottage, Portland, Judith Frost, Dorset Art, Art, Artist's Studio, Artists Studio, artist studio, Dorset Studios, Dorset, Chiswell, Chesil, Chesil Bank, Chesil Beach, World Heritage Site, Jurassic, Jurassic Coast, Fortuneswell, Weares, West Weares">
+<meta name="description" content="Ranters Lodge Artists' Studio-Cottage, Chesil Beach, Chiswell, Portland, England">
+<meta name="keywords" content="Ranters Lodge, Cottage, Rental, Holiday rental, Holiday cottage, Portland, Judith Frost, Dorset Art, Art, Artists' Studio, Artists Studio, artist studio, Dorset Studios, Dorset, Chiswell, Chesil, Chesil Bank, Chesil Beach, World Heritage Site, Jurassic, Jurassic Coast, Fortuneswell, Weares, West Weares">
 <meta name="content" content="Ranters Lodge, Rental, Holiday rental, Holiday cottage, Portland, Judith Frost, Artists Studio Cottage, artist studio, Dorset Studios, Dorset, Chiswell, Chesil Beach, World Heritage Site, Jurassic Coast, Fortuneswell">
 <meta name="search" content="yes">
 </head>

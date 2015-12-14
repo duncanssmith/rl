@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="col-md-2"></div>
                 <div class="col-md-10">
-                    <img src="media/images/rl2005_002.jpg?>">
+                    <img src="media/images/<?php echo $images[12]?>">
                     <p class="capt">Stairs to sleeping platform</p></td>
                     <img src="<?php echo $path.$images[9];?>">
                     <p class="capt">Kitchen and lower studio</p></td>
