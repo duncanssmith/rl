@@ -3,36 +3,51 @@
 <?php
     include 'head.php';
 ?>
-    <body data-spy="scroll" data-target="#rlo-navbar" data-offset="90">
-        <?php
-            include 'nav.php';
-        ?>
-        <div id="content">
-            <section id="section-main" class="section photo">
-                <div class="container-fluid">
-                    <div class="row">
-                        <h1 class="title pull-left">Ranter's Lodge on Chesil Beach</h1>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h2>Ranter's Lodge Artist's Studio/Cottage on Chesil Beach</h2>
-                            <p> Chiswell, Portland, Dorset DT5 1AW<br/>tel +44(0)1305 822 096<br/>mobile +44(0)7887 945 034 </p>
-                        </div>
-                        <div class="col-md-6">
-                            <a href="pictures.php"><img src="media/images/<?php echo $images[1]?>" border="0"></a></p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <a href="pictures.php"><img src="media/images/<?php echo $images[2]?>" border="0"></a></p>
-                        </div>
-                        <div class="col-md-6">
-                            <p> Ranters Lodge and the Dead House lie 30 metres from the sea. Formerly a fishing store and a boat house, they have been converted into two self-contained artist's studios with accommodation for 2/3 people each. Normally only Ranters Lodge is rented. </p>
-                        </div>
-                    </div>
+
+<body data-spy="scroll" data-target="#rlo-navbar" data-offset="90">
+
+<?php
+    include 'nav.php';
+?>
+
+<div id="content">
+    <section id="section-main" class="section photo">
+        <div class="container-fluid">
+            <div class="row">
+                <h1 class="title pull-left">Ranters Lodge on Chesil Beach</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>Ranters Lodge Artists' Studio/Cottage on Chesil Beach</h2>
+                    <a href="mailto:jcfrost@dialstart.net">Email jcfrost@dialstart.net </a>
+                    <p> Chiswell, Portland, Dorset DT5 1AW<br/>tel +44(0)1305 822 096<br/>mobile +44(0)7887 945 034 </p>
+                </div>
+                <div class="col-md-6">
+                    <a href="pictures.php"><img src="media/images/<?php echo $images[1]?>" border="0"></a></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <a href="pictures.php"><img src="media/images/<?php echo $images[2]?>" border="0"></a></p>
+                </div>
+                <div class="col-md-6">
+                    <p> Ranters Lodge and the Dead House lie 30 metres from the sea. Formerly a fishing store and a boat house, they have been converted into two self-contained artists' studios with accommodation for 2/3 people each. Normally only Ranters Lodge is rented. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-studio" class="section photo">
+        <div class="container">
+            <div class="row">
+                <h1 class="title pull-left">Artists' studio</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <a href="pictures.php"><img src="media/images/<?php echo $images[9]?>" border="0"></a></p>
                 </div>
             </section>
 
+<<<<<<< HEAD
             <section id="section-studio" class="section photo">
                 <div class="container">
                     <div class="row">
@@ -57,7 +72,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <a href="pictures.php"><img src="media/images/<?php echo $images[5]?>" border="0"></a></p>
-                            <p class="capt">Gallery Bedroom</p>
+                            <p class="capt">Studio bedroom</p>
                         </div>
                         <div class="col-md-6">
                           <p>
@@ -121,3 +136,4 @@
         </div>
     </body>
 </html>
+

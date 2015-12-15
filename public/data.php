@@ -11,7 +11,9 @@ $images = Array(
 	'DSC90002.jpg',
 	'DSC90003.jpg',
 	'DSC9Portland4.jpg',
-	'DSC9Portland6.jpg'
+    'DSC9Portland6.jpg',
+    'rl2005_001.jpg',
+    'rl2005_002.jpg'
 );
 
 ?>

@@ -2,7 +2,7 @@
     <div class="navbar-header">
         <div class="navbar-collapse collapse " role="navigation">
             <ul class="nav navbar-nav">
-                <li><a href="index.php#section-main">Ranter's Lodge on Chesil Beach</a></li>
+                <li><a href="index.php#section-main">Ranters Lodge</a></li>
                 <li><a href="index.php#section-studio">Studio</a></li>
                 <li><a href="index.php#section-rental">Rental</a></li>
                 <li><a href="index.php#section-access">Access</a></li>
