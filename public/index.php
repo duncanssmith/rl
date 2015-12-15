@@ -36,18 +36,7 @@
             </div>
         </div>
     </section>
-    <section id="section-studio" class="section photo">
-        <div class="container">
-            <div class="row">
-                <h1 class="title pull-left">Artists' studio</h1>
-            </div>
-            <div class="row">
-                <div class="col-md-6">
-                    <a href="pictures.php"><img src="media/images/<?php echo $images[9]?>" border="0"></a></p>
-                </div>
-            </section>
 
-<<<<<<< HEAD
             <section id="section-studio" class="section photo">
                 <div class="container">
                     <div class="row">
