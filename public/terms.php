@@ -1,21 +1,18 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
-
 <?php include 'head.php';?>
-
-<body bgcolor="#ffffff">
+<body data-spy="scroll" data-target="#rlo-navbar" data-offset="90">
 <?php include 'nav.php';?>
-
-
 <div id="content">
     <section id="section-terms" class="section photo">
         <div class="container">
             <div class="row">
+                <h1 class="title">Booking Terms and Conditions</h1>
+            </div>
+            <div class="row">
                 <div class="col-md-2"></div>
                 <div class="col-md-10">
-	                 <h1>Booking Terms and Conditions<h1>
-
-	                <p class="terms">Please read carefully.  <a class="btn btn-default" href="media/images/rl_terms_conditions.pdf" target="_blank">You can download a PDF copy here.</a> </p>
+	                 <p class="terms">Please read carefully.  <a class="btn btn-default" href="media/images/rl_terms_conditions.pdf" target="_blank">You can download a PDF copy here.</a> </p>
 
 
 	<ol>

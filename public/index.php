@@ -5,11 +5,9 @@
 ?>
 
 <body data-spy="scroll" data-target="#rlo-navbar" data-offset="90">
-
 <?php
     include 'nav.php';
 ?>
-
 <div id="content">
     <section id="section-main" class="section photo">
         <div class="container-fluid">
@@ -125,4 +123,3 @@
         </div>
     </body>
 </html>
-

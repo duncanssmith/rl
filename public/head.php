@@ -37,7 +37,6 @@
 
 <?php
 	include 'data.php';
-	include 'functions.php';
 	$path="media/images/";
 ?>
 

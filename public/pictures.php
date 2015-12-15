@@ -3,15 +3,16 @@
 <?php
     include 'head.php';
 ?>
-
-<body bgcolor="#ffffff">
+<body data-spy="scroll" data-target="#rlo-navbar" data-offset="90">
 <?php
     include 'nav.php';
 ?>
-
 <div id="content">
     <section id="section-main" class="section photo">
         <div class="container">
+          <div class="row">
+              <h1 class="title">Pictures</h1>
+          </div>
             <div class="row">
                 <div class="col-md-2"></div>
                 <div class="col-md-10">
