@@ -7,9 +7,9 @@
                 <li><a href="index.php#section-rental">Rental</a></li>
                 <li><a href="index.php#section-access">Access</a></li>
                 <li><a href="index.php#section-location">Location</a></li>
-                <li><a href="pictures.php">Pictures</a></li>
-                <li><a href="terms.php">Terms &amp; conditions</a></li>
-                <li><a href="calendar.php">Availability</a></li>
+                <li><a href="index.php#section-pictures">Pictures</a></li>
+                <li><a href="index.php#section-terms">Terms &amp; conditions</a></li>
+                <li><a href="index.php#section-calendar">Availability</a></li>
             </ul>
         </div>
     </div>

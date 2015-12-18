@@ -91,6 +91,32 @@ html, body {
     padding-top: 40px;
     background-color: rgba(180, 160, 20, .4);
 }
+#section-pictures {
+     padding-top: 40px;
+     background: #282828 url('../images/rl2005_001.jpg') no-repeat center center;
+     background-size: cover;
+     background-color: rgba(255,255,255,0.1);
+     text-align: left;
+     color: #999;
+ }
+#section-pictures h1, h2, p {
+    padding: 20px,20px,20px,20px
+background-color: rgba(255, 255, 255, .4);
+    color: #799;
+}
+#section-calendar {
+    padding-top: 40px;
+    background: #282828 url('../images/rl2005_001.jpg') no-repeat center center;
+    background-size: cover;
+    background-color: rgba(255,255,255,0.1);
+    text-align: left;
+    color: #999;
+}
+#section-calendar h1, h2, p {
+    padding: 20px,20px,20px,20px
+background-color: rgba(255, 255, 255, .4);
+    color: #799;
+}
 .menu-page-1 {
   margin: 0 80px 0 0;
 }
