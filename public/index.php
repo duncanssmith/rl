@@ -18,7 +18,7 @@
                         <div class="col-md-6">
                             <h2 class="subtitle">Artists' Studio/Cottage</h2>
                             <h3 class=""><a href="mailto:jcfrost@dialstart.net">Email: jcfrost@dialstart.net </a></h3>
-                            <p class="address">Ranters Lodge<br>Chiswell<br>Portland<br>Dorset DT5 1AW<br>United Kingdom<br>tel +44(0)1305 822 096<br/>mobile +44(0)7887 945 034</p>
+                            <p class="address">Ranters Lodge<br>Chiswell, Portland<br>Dorset DT5 1AW<br>United Kingdom<br>tel +44 (0) 1305 822 096<br/>mobile +44 (0) 7887 945 034</p>
                         </div>
                         <div class="col-md-6">
                             <img src="media/images/<?php echo $images[1]?>" border="0">

@@ -50,17 +50,20 @@ html, body {
     padding: 20px;
     color: rgba(255,255,255,.999);
     background-color: rgba(15,30,30,.0);
-    text-align: center;
+    text-align: left;
+    margin-left: 90px;
 }
 .legible p {
-    margin: 10px;
-    padding: 20px;
-    background-color: rgba(20,35,35,.3);
-    color: rgba(255,255,255,.99);
+    text-align: left;
+    margin: 4px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgba(84,118,118,.99);
 }
 .subtitle {
     color: rgba(80,140,140,.99);
-    text-align: center;
+    text-align: left;
+    margin-left: 90px;
 }
 #section-main {
     padding-top: 40px;
@@ -73,6 +76,10 @@ html, body {
 #section-main h1, h2, p {
     padding: 20px;
     color: #799;
+}
+#section-main h3 {
+    text-align: left;
+    padding-left: 110px;
 }
 #section-studio {
     padding-top: 40px;
