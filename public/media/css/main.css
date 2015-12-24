@@ -43,6 +43,25 @@ html, body {
 #logo {
     margin-top: 20px;
 }
+.address {
+    font-size: 1.2em;
+    font-weight: 500;
+    margin: 10px;
+    padding: 20px;
+    color: rgba(255,255,255,.999);
+    background-color: rgba(15,30,30,.0);
+    text-align: center;
+}
+.legible p {
+    margin: 10px;
+    padding: 20px;
+    background-color: rgba(20,35,35,.3);
+    color: rgba(255,255,255,.99);
+}
+.subtitle {
+    color: rgba(80,140,140,.99);
+    text-align: center;
+}
 #section-main {
     padding-top: 40px;
     background: #282828 url('../images/rl2005_001.jpg') no-repeat center center;
@@ -52,8 +71,7 @@ html, body {
     color: #999;
 }
 #section-main h1, h2, p {
-    padding: 20px,20px,20px,20px
-    background-color: rgba(255, 255, 255, .4);
+    padding: 20px;
     color: #799;
 }
 #section-studio {
