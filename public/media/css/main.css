@@ -65,6 +65,9 @@ html, body {
     text-align: left;
     margin-left: 90px;
 }
+.pricelist {
+    color: #555;
+}
 #section-main {
     padding-top: 40px;
     background: #282828 url('../images/rl2005_001.jpg') no-repeat center center;
