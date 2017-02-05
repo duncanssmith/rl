@@ -74,7 +74,7 @@
                             <p>&pound;70 per night (minimum 3 nights)</p>
                             <p>&pound;475 per week</p>
                             <br>
-                            <p>Linen and towels &pound;13 each per person if required</p.>
+                            <p>Linen and towels &pound;13 each per person if required.</p>
                             <p>There is an extra charge if constant heat is required.</p>
                             <p>Ranters Lodge is run on the ethos that you leave it as you would hope to find it.</p>
 
@@ -148,6 +148,7 @@
                             <img src="<?php echo $path.$images[7];?>">
                             <p class="capt">Upper studio</p>
                         </div>
+                        <a href="pictures.php">More pictures</a>
                     </div>
                 </div>
             </section>
@@ -223,7 +224,6 @@
                     </div>
                 </div>
             </section>
-
             <section id="section-calendar" class="section photo">
                 <div class="container">
                     <div class="row">

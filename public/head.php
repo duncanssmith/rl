@@ -37,7 +37,8 @@
 
 <?php
 	include 'data.php';
-	$path="media/images/";
+    $path="media/images/";
+	$path2017="media/images/2017/";
 ?>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
