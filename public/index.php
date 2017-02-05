@@ -17,7 +17,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h2 class="subtitle">Artists' Studio/Cottage</h2>
-                            <h3 class=""><a href="mailto:jcfrost@dialstart.net">Email: jcfrost@dialstart.net </a></h3>
+                            <h3 class=""><a href="mailto:judithcfrost@gmail.com">Email: judithcfrost@gmail.com </a></h3>
                             <p class="address">Ranters Lodge<br>Chiswell, Portland<br>Dorset DT5 1AW<br>United Kingdom<br>tel +44 (0) 1305 822 096<br/>mobile +44 (0) 7887 945 034</p>
                         </div>
                         <div class="col-md-6">
@@ -79,7 +79,7 @@
                             <p>Ranters Lodge is run on the ethos that you leave it as you would hope to find it.</p>
 
                           <p>
-                          Please telephone Judith Frost on +44 (0) 1305 822 096 (land-line) or +44 (0) 7887 945 034 (mobile) or <a href="mailto:jcfrost@dialstart.net">email jcfrost@dialstart.net </a>for further information and availability. A non-returnable 20% deposit is required to secure booking.
+                          Please telephone Judith Frost on +44 (0) 1305 822 096 (land-line) or +44 (0) 7887 945 034 (mobile) or <a href="mailto:judithcfrost@gmail.com">email judithcfrost@gmail.com </a>for further information and availability. A non-returnable 20% deposit is required to secure booking.
                           </p>
                         </div>
                     </div>
