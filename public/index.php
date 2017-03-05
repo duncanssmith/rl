@@ -148,11 +148,12 @@
                             <img src="<?php echo $path.$images[7];?>">
                             <p class="capt">Upper studio</p>
                         </div>
-                        <a href="pictures.php">More pictures</a>
+                        <h2>
+                            <a href="pictures.php">More pictures</a>
+                        </h2>
                     </div>
                 </div>
             </section>
-
             <section id="section-terms" class="section photo">
                 <div class="container">
                     <div class="row">
