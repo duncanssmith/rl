@@ -68,6 +68,16 @@ html, body {
 .pricelist {
     color: #555;
 }
+ul.prices {
+    font-size: .65 em;
+    font-weight: 300;
+    text-align: left;
+    margin: 4px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgba(80,100,100,.99);
+    list-style-type: none;
+}
 #section-main {
     padding-top: 40px;
     background: #282828 url('../images/rl2005_001.jpg') no-repeat center center;
