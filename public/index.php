@@ -63,27 +63,27 @@
                         </div>
                         <div class="col-md-6 legible">
 
-                            <h4 class="pricelist">Ranters Lodge prices</h4>
+                            <h2 class="">Ranters Lodge prices</h2>
                             <br>
+                            
                             <h5 class="pricelist">Mid-September to June (excluding Christmas, New Year and Easter)</h5>
 
                             <ul class="prices">
                                 <li>&pound;45 per night (minimum 3 nights)</li>
-                                <li>&pound;120 weekend arriving Friday afternoon and leaving Sunday early evening</li>
-                                <li>&pound;290 per week</li>
+                                <li>&pound;315 per week</li>
                                 <li>10% single occupancy reduction</li>
                             </ul>
 
                             <h5 class="pricelist">July to mid-September, Christmas, New Year and Easter</h5>
                             <ul  class="prices">
-                                <li>&pound;70 per night (minimum 3 nights)</li>
-                                <li>&pound;475 per week</li>
+                                <li>&pound;70 per night (minimum 7 nights)</li>
+                                <li>&pound;490 per week</li>
                             </ul>
 
                             <h5 class="pricelist">At all times</h5>
                             <ul class="prices">
                                 <li>A non-returnable 20% deposit is required to secure booking</li>
-                                <li>Linen and towels &pound;13 each per person if required</li>
+                                <li>Linen and towels &pound;17 each per person if required</li>
                                 <li>There is an extra charge if constant heat is required</li>
                                 <li>Ranters Lodge is run on the ethos that you leave it as you would hope to find it</li>
                             </ul>
