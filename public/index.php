@@ -69,22 +69,21 @@
                             <h5 class="pricelist">Mid-September to June (excluding Christmas, New Year and Easter)</h5>
 
                             <ul class="prices">
-                                <li>&pound;45 per night (minimum 3 nights)</li>
-                                <li>&pound;315 per week</li>
+                                <li>&pound;55 per night (minimum 3 nights)</li>
+                                <li>&pound;385 per week</li>
                                 <li>10% single occupancy reduction</li>
                             </ul>
 
                             <h5 class="pricelist">July to mid-September, Christmas, New Year and Easter</h5>
                             <ul  class="prices">
-                                <li>&pound;70 per night (minimum 7 nights)</li>
-                                <li>&pound;490 per week</li>
+                                <li>&pound;80 per night (minimum 7 nights)</li>
+                                <li>&pound;560 per week</li>
                             </ul>
 
                             <h5 class="pricelist">At all times</h5>
                             <ul class="prices">
                                 <li>A non-returnable 20% deposit is required to secure booking</li>
-                                <li>Linen and towels &pound;17 each per person if required</li>
-                                <li>There is an extra charge if constant heat is required</li>
+				<li>I am asking everybody to bring their own linen and towels but if for some reason you are unable to the cost would be &pound;20 per person</li>
                                 <li>Ranters Lodge is run on the ethos that you leave it as you would hope to find it</li>
                             </ul>
 
@@ -92,7 +91,7 @@
                             <ul class="prices">
                                 <li>+44 (0) 1305 822 096 (land line)</li>
                                 <li>+44 (0) 7887 945 034 (mobile)</li>
-                                <li>Email <a href="mailto:judithcfrost@gmail.com">email judithcfrost@gmail.com </a></li>
+                                <li>Email <a href="mailto:judithcfrost@gmail.com">judithcfrost@gmail.com </a></li>
                             </ul>
 
                         </div>
