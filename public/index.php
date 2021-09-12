@@ -45,7 +45,7 @@
                             <img src="media/images/<?php echo $images[9]?>" border="0">
                         </div>
                         <div class="col-md-6 legible">
-                            <p> Ranters Lodge consists of 2 floors approximately 6 x 7.5 metres. The upper floor has a sleeping platform. All walls are whitewashed, the floors wood and concrete with rugs. On the ground floor there are two large tables and a small kitchen that has a fridge, a mini electric cooker and a small microwave. On the first floor there is a further area with a large, nearly-north skylight, a day bed plus the bathroom which has a sitting bath and a walk-in shower. The sleeping platform has a "natural Marks and Spencer" 5ft mattress. There is gas central heating throughout. Outside there is a courtyard garden with tables, chairs, and a small barbecue. </p>
+			    <p> Ranters Lodge consists of 2 floors approximately 6 x 7.5 metres. The upper floor has a sleeping platform. All walls are whitewashed, the floors wood and concrete with rugs. On the ground floor there are two large tables and a small kitchen that has a fridge, a mini electric cooker and a small microwave. On the first floor there is a further area with a large, nearly-north skylight, a day bed plus the bathroom which has a sitting bath and a walk-in shower. The sleeping platform has a "natural Marks and Spencer" 5ft mattress. There is gas central heating throughout. There is a shared courtyard garden with tables and chairs.</p>
                         </div>
                     </div>
                 </div>
