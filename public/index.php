@@ -18,7 +18,7 @@
                         <div class="col-md-6">
                             <h2 class="subtitle">Artists' Studio/Cottage</h2>
                             <h3 class=""><a href="mailto:judithcfrost@gmail.com">Email: judithcfrost@gmail.com </a></h3>
-                            <p class="address">Ranters Lodge<br>Chiswell, Portland<br>Dorset DT5 1AW<br>United Kingdom<br>tel +44 (0) 1305 822 096<br/>mobile +44 (0) 7887 945 034</p>
+                            <p class="address">Ranters Lodge<br>Chiswell, Portland<br>Dorset DT5 1AW<br>United Kingdom<br>mobile +44 (0) 7887 945 034</p>
                         </div>
                         <div class="col-md-6">
                             <img src="media/images/<?php echo $images[1]?>" border="0">
@@ -69,28 +69,27 @@
                             <h5 class="pricelist">Mid-September to June (excluding Christmas, New Year and Easter)</h5>
 
                             <ul class="prices">
-                                <li>&pound;55 per night (minimum 3 nights)</li>
-                                <li>&pound;385 per week</li>
+                                <li>&pound;60 per night (minimum 3 nights)</li>
+                                <li>&pound;420 per week</li>
                                 <li>10% single occupancy reduction</li>
                             </ul>
 
                             <h5 class="pricelist">July to mid-September, Christmas, New Year and Easter</h5>
                             <ul  class="prices">
-                                <li>&pound;80 per night (minimum 7 nights)</li>
-                                <li>&pound;560 per week</li>
+                                <li>&pound;85 per night (minimum 7 nights)</li>
+                                <li>&pound;595 per week</li>
                             </ul>
 
                             <h5 class="pricelist">At all times</h5>
                             <ul class="prices">
                                 <li>A non-returnable 20% deposit is required to secure booking</li>
-				<li>I am asking everybody to bring their own linen and towels but if for some reason you are unable to the cost would be &pound;20 per person</li>
+				<li>I am asking everybody to bring their own linen and towels but if for some reason you are unable to the cost would be &pound;25 per person</li>
                                 <li>Ranters Lodge is run on the ethos that you leave it as you would hope to find it</li>
                             </ul>
 
                             <h5 class="pricelist">Contact Judith Frost for further information and availability</h5>
                             <ul class="prices">
-                                <li>+44 (0) 1305 822 096 (land line)</li>
-                                <li>+44 (0) 7887 945 034 (mobile)</li>
+                                <li>+44 (0) 7887 945 034</li>
                                 <li>Email <a href="mailto:judithcfrost@gmail.com">judithcfrost@gmail.com </a></li>
                             </ul>
 
